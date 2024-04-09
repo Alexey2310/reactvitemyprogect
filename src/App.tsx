@@ -14,10 +14,10 @@ function App() {
 				<aside>aside</aside>
 				<section>
 				<Routes>
-					<Route path='/' element={<HomePage/>}/>
-					<Route path='/about' element={<About/>}/>
-					<Route path='/catalog' element={<Catalog/>}/>
-					<Route path='/contacts' element={<Contacts/>}/>
+					<Route path='/reactvitemyprogect' element={<HomePage/>}/>
+					<Route path=' /reactvitemyprogect/about' element={<About/>}/>
+					<Route path='/reactvitemyprogect/catalog' element={<Catalog/>}/>
+					<Route path='/reactvitemyprogect/contacts' element={<Contacts/>}/>
 				</Routes>
 				</section>
 			</main>
