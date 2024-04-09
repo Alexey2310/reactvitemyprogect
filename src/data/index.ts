@@ -7,7 +7,7 @@ type Navigate ={
 export const navigationLinks:NavigationLinks = [
 	{ title: 'Главная', path: '/' },
 	{ title: 'О Нас', path: '/about' },
-	{ title: 'Каталог продукции', path: '/catalog' },
+	{ title: 'Каталог продукции!!!', path: '/catalog' },
   {title:'Контакты',path:'/contacts'}
 ]
 export const about =[{
