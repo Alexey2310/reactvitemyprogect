@@ -11,7 +11,7 @@ function App() {
 		<>
 			<Navigate navigationLinks={navigationLinks} />
 			<main>
-				<aside></aside>
+				<aside>aside</aside>
 				<section>
 				<Routes>
 					<Route path='/' element={<HomePage/>}/>
