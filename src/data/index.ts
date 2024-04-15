@@ -5,10 +5,10 @@ type Navigate ={
 }
 
 export const navigationLinks:NavigationLinks = [
-	{ title: 'Главная', path: '/reactvitemyprogect' },
-	{ title: 'О Нас', path: '/reactvitemyprogect/about' },
-	{ title: 'Каталог продукции!!!', path: '/reactvitemyprogect/catalog' },
-  {title:'Контакты',path:'/reactvitemyprogect/contacts'}
+	{ title: 'Главная', path: '/' },
+	{ title: 'О Нас', path: '/about' },
+	{ title: 'Каталог продукции!!!', path: '/catalog' },
+  {title:'Контакты',path:'/contacts'}
 ]
 export const about =[{
   id:1, title:'Servis',info:['Jain','marcus','Sidni']
